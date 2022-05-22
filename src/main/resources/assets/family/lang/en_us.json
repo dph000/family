@@ -1,3 +1,24 @@
 {
-    "block.family.family_ore": "Family Ore"
+    "block.family.homer_ore": "Homer Ore",
+    "block.family.marge_ore": "Marge Ore",
+    "block.family.bart_ore": "Bart Ore",
+    "block.family.lisa_ore": "Lisa Ore",
+    "block.family.maggie_ore": "Maggie Ore",
+    "block.family.snowball_ore": "Snowball Ore",
+    "block.family.santa_ore": "Santa Ore",
+    "item.family.homer_raw": "Raw Homer",
+    "item.family.marge_raw": "Raw Marge",
+    "item.family.bart_raw": "Raw Bart",
+    "item.family.lisa_raw": "Raw Lisa",
+    "item.family.maggie_raw": "Raw Maggie",
+    "item.family.snowball_raw": "Raw Snowball",
+    "item.family.santa_raw": "Raw Santa",
+    "item.family.family_axe": "Family Axe",
+    "item.family.homer_ingot": "Homer",
+    "item.family.marge_ingot": "Marge",
+    "item.family.bart_ingot": "Bart",
+    "item.family.lisa_ingot": "Lisa",
+    "item.family.maggie_ingot": "Maggie",
+    "item.family.snowball_ingot": "Snowball",
+    "item.family.santa_ingot": "Santa"
 }

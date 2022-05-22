@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# G",
+        "PDH",
+        "A I"
+    ],
+    "key": {
+        "#": {
+            "item": "family:homer_ingot"
+        },
+        "G": {
+            "item": "family:marge_ingot"
+        },
+        "P": {
+            "item": "family:bart_ingot"
+        },
+        "D": {
+            "item": "family:lisa_ingot"
+        },
+        "H": {
+            "item": "family:maggie_ingot"
+        },
+        "A": {
+            "item": "family:santa_ingot"
+        },
+        "I": {
+            "item": "family:snowball_ingot"
+        }
+    },
+    "result": {
+        "item": "family:family_axe",
+        "count": 1
+    }
+}
